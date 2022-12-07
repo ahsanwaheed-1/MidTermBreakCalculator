@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    background-color:#222222;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    color:#F3EFE0;
+    margin-top: 45px;
+}
+p{
+    font-family: 'Manrope', sans-serif;
+    color: #22A39F;
+    font-size: larger;
+    font-weight: bold;
+}
+span{
+    font-family: 'Manrope', sans-serif;
+    color: #22A39F;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+}
+input{
+    font-size: 1rem;
+    background-color: darkgrey;
+    color:black;
+    font-weight: bold;
+}
+hr{
+    color:#F3EFE0;
+    border-style: dotted;
+    width: 3%;
+    border-top: 0;
+    border-width: 5px;
+    margin: 25px auto
+}
+button{
+    color:grey;
+    background-color: #222222;
+    font-size: 2rem;
+}
+button:hover{
+    background-color: grey;
+    color:black;
+}
+.expression{
+    font-family: 'Manrope', sans-serif;
+    color: #F3EFE0;
+}
+.equation1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color:cadetblue;
+}
+i{
+    margin-left: 10px;
+}
+.equation2{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 35px;
+    color:cadetblue;
+}
+a{
+    font-size: 1.3rem;
+    color:#22A39F;
+    margin-top: 70px;
+}
+a:hover{
+    color:azure;
+}
